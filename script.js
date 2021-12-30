@@ -1,5 +1,5 @@
-const bodyWidth = document.body.clientWidth;
-if(bodyWidth > 900) document.body.style.width = '1440px';
+
+
 
 // fetch data json
 
