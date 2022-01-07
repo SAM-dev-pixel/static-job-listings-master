@@ -113,7 +113,7 @@ ul { list-style: none; }
 .list {
   padding: 1.5em;
   padding-top: 0;
-  margin: 2.25rem 0;
+  margin: 3.5rem 0;
   background: white;
   box-shadow: 0 8px 12px -6px var(--dark-grayish-cyan);
   border-radius: .6em;
